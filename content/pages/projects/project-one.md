@@ -7,7 +7,7 @@ client: ''
 description: 'Don''t let me do all the talking, here''s some testimonials to break the ice'
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2025-04-23 at 23.11.09.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
