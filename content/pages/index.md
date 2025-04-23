@@ -33,15 +33,19 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       Partnering with SaaS and technology vendors across the UK & North America
-      to hire top talent. 
+      to hire top talent.
 
 
       Hiring for growth is incredibly exciting but often the long-term strategy
       and best practices are overlooked. We cut through the noise of the TA
-      landscape and work with you to meet your hiring goals, fast. 
+      landscape and work with you to meet your hiring goals, fast.
 
+
+      With 8 years experience in hiring for start-up, scale-ups and everything
+      in between, I am focused on results. Struggling to attract the right
+      talent? Let's do this (quickly). 
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
