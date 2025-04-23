@@ -156,5 +156,5 @@ sections:
           - pr-4
           - pl-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
 ---
