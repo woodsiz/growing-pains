@@ -99,7 +99,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Looking to kick-start hiring? Tell me more ... \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
