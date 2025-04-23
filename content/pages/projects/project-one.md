@@ -4,7 +4,7 @@ title: But effective
 colors: colors-a
 date: '2021-10-15'
 client: ''
-description: 'Don''t let me do all the talking, here what our clients have to say '
+description: 'Don''t let me do all the talking, here''s some testimonials'
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
