@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'We spcialise in '
+title: 'We hire for '
 colors: colors-a
 date: '2021-12-20'
 client: ''
