@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Recruitment is noisy. We align on expectations and understand what you really
+  need. Top of funnel pipeline? End-to-end hiring? Team builds. Simple &
+  consistent = equal results.
 featuredImage:
   type: ImageBlock
   url: /images/gallery-1.jpg
