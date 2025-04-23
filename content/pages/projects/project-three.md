@@ -6,7 +6,7 @@ date: '2022-01-22'
 client: ''
 description: >-
   Recruitment is noisy. We align on expectations and understand what you really
-  need. Top of funnel pipeline? End-to-end hiring? Team builds. Simple &
+  need. Top of funnel pipeline? End-to-end hiring? Team builds? Simple &
   consistent = equal results.
 featuredImage:
   type: ImageBlock
