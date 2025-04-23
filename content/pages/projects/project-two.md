@@ -7,7 +7,7 @@ client: ''
 description: 'Go-To-Market, HR & Talent Acquisition, Product & Core Business Functions '
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/post-3.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
