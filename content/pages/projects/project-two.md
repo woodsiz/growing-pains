@@ -4,7 +4,9 @@ title: 'We hire for '
 colors: colors-a
 date: '2021-12-20'
 client: ''
-description: 'Go-To-Market, HR & Talent Acquisition, Product & Core Business Functions. '
+description: >-
+  Go-To-Market, HR & Talent Acquisition, "first on the ground" and Core Business
+  Functions. 
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
