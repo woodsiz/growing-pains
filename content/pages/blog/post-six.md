@@ -4,7 +4,10 @@ title: 'The art of the pipeline '
 colors: colors-a
 date: '2024-01-08'
 author: content/data/team/doris-soto.json
-excerpt: 'How are you engaging with people that experience your brand? '
+excerpt: >-
+  How are you engaging with talent that have an experience with your business?
+  How do we truly nurture the silver medalists candidates who were a "not right
+  now" at interview? 
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
