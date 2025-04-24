@@ -52,12 +52,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "ABOUT",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
