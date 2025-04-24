@@ -1,11 +1,13 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: 'The art of the pipeline '
 colors: colors-a
-date: '2024-06-03'
+date: '2024-01-08'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  How are you engaging with talent that have an experience with your business?
+  How do we truly nurture the silver medalists candidates who were a "not right
+  now" at interview? 
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
@@ -34,7 +36,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
