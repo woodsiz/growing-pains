@@ -4,7 +4,7 @@ title: 'The art of the pipeline '
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'How are you engaging with people that experience your brand? '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
