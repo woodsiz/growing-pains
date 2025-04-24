@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'The art of the pipeline '
 colors: colors-a
-date: '2024-06-03'
+date: '2024-01-03'
 author: content/data/team/doris-soto.json
 excerpt: 'How are you engaging with people that experience your brand? '
 featuredImage:
