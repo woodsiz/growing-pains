@@ -40,12 +40,15 @@ sections:
 
       Hiring for growth is incredibly exciting but often the long-term strategy
       and best practices are overlooked. We cut through the noise of the TA
-      landscape and work with you to meet your hiring goals, fast.
+      landscape and work with you to meet your hiring goals. 
 
 
-      With 8 years experience in hiring for start-up, scale-ups and everything
-      in between, I am focused on results. Struggling to attract the right
-      talent? Let's do this (quickly). 
+      Independent recruiter with 8 years experience in hiring for start-up,
+      scale-ups and everything in between I am focused on results.
+
+
+      Success stories include PolyAi, Chainalysis, Yoobic and most recently
+      Wise. 
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
