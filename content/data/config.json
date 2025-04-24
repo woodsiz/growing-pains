@@ -71,7 +71,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Get in touch ",
             "phoneNumber": "+44 7951 346 057",
             "phoneAltText": "",
             "email": "michael@growingpains.biz",
